@@ -1,0 +1,5 @@
+
+fsquid:UselessImportCheck";Remove this unused import 'javax.servlet.http.HttpSession'.(í¨ô8‰Á‹åÕ,
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¤şÜó8¾èÕéÕ,
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŠÏÜ†
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(üöç…
